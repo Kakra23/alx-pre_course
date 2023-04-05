@@ -1,3 +1,1 @@
-My first readme
-My first readme
-course work
+Sunday is a good day
